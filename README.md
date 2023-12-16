@@ -16,11 +16,8 @@
 
 ### Setup
 
-- Use the provided installer. [Coming soon]
-- ~~Subscribe to the mod on the Steam workshop.~~
-
-### Test Build
-While not the most elegant interface, it should work if you want to try out this program before it's complete.
+- run the script main.py
+- a single exe coming soon
 
 ### How it works
 Right now it simply reads the latest save file available. This may create a couple of issues as it can only read uncompressed autosaves, so it is important that you have autosave compression turned off in the game's settings.
